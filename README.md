@@ -15,6 +15,6 @@ Rotate an array by k times and return the rotated array
 
 Solutions:
 
-1st main task is solved in index.js and script.js files.
+1st main task is solved in index.html and script.js files.
 
-remaining all problems are solved in seperate js file called practice_problems.js
+remaining all problems are solved in seperate js file named with practice_problems.js
